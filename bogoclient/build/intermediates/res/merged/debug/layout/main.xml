@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bj"
+    android:orientation="vertical">
+
+    <!-- socket连接界面 -->
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <Button
+        android:id="@+id/btnConnect"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/connect" />
+
+    <EditText
+        android:id="@+id/ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="请输入IP"/>
+
+    <EditText
+        android:id="@+id/port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="请输入端口号"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <!-- 温度 -->
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <!-- 三个文本栏的布局设置 -->
+            <TextView
+                android:id="@+id/temperature"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:textColor="#FFFFFFFF"
+                android:textSize="40sp" />
+        </LinearLayout>
+
+        <!-- 图片布局设置 -->
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider" />
+    <!--分隔符效果 -->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <!-- 湿度 -->
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- 三个文本栏的布局设置 -->
+
+            <TextView
+                android:id="@+id/shidu"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:textColor="#FFFFFFFF"
+                android:textSize="40sp" />
+        </LinearLayout>
+        <!-- 图片布局设置 -->
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <!-- 红外 -->
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- 三个文本栏的布局设置 -->
+
+
+            <TextView
+                android:id="@+id/gz"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:textColor="#FFFFFFFF"
+                android:textSize="40sp" />
+
+        </LinearLayout>
+        <!-- 图片布局设置 -->
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="?android:attr/listDivider" />
+
+    <Button
+        android:id="@+id/btnfresh"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fresh" />
+</LinearLayout>

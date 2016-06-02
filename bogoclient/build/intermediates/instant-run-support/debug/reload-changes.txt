@@ -1,0 +1,4 @@
+CHANGED,F:\AndroidStudio\MyApplicationHigh\HDay01\bogoclient\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\AndroidStudio\MyApplicationHigh\HDay01\bogoclient\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\bogo\client\com\BogoclientActivity$1$override.class
+CHANGED,F:\AndroidStudio\MyApplicationHigh\HDay01\bogoclient\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\bogo\client\com\BogoclientActivity$2$override.class
+CHANGED,F:\AndroidStudio\MyApplicationHigh\HDay01\bogoclient\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\bogo\client\com\BogoclientActivity$override.class

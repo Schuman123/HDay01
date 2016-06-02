@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HDay01.iml" filepath="$PROJECT_DIR$/HDay01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NormalPlugins/NormalPlugins.iml" filepath="$PROJECT_DIR$/NormalPlugins/NormalPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/常用插件/app.iml" filepath="$PROJECT_DIR$/常用插件/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bogoclient/bogoclient.iml" filepath="$PROJECT_DIR$/bogoclient/bogoclient.iml" />
+    </modules>
+  </component>
+</project>

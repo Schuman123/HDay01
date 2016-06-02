@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intelligent </string>
+    <string name="connect">Connect</string>
+    <string name="fresh">refresh</string>
+    <string name="hello">智能家具!</string>
+</resources>
