@@ -1,6 +1,10 @@
 [
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\layout\\main.xml"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/layout/main.xml"
     }
 ]

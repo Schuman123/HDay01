@@ -1,22 +1,42 @@
 [
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-hdpi-v4/hyit.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-hdpi/hyit.png"
     },
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bj.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\bj.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyit.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\hyit.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lamp_on.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\lamp_on.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyit.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\hyit.png"
     },
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lamp_off.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\lamp_off.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lamp_off.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\lamp_off.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp_on.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-hdpi/lamp_on.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-hdpi-v4/bj.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-hdpi/bj.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bj.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\bj.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lamp_on.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-hdpi\\lamp_on.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp_off.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-hdpi/lamp_off.png"
     }
 ]

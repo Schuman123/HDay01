@@ -1,10 +1,18 @@
 [
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hyit.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-mdpi\\hyit.png"
     },
     {
-        "merged": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hyit.png",
-        "source": "F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-mdpi\\hyit.png"
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-mdpi-v4/hyit.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-mdpi/hyit.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/F:\\AndroidStudio\\MyApplicationHigh\\HDay01\\bogoclient\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Schuman/Documents/MyApplication/HDay01/bogoclient/src/main/res/drawable-mdpi/ic_launcher.png"
     }
 ]
